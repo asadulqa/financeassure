@@ -1,4 +1,4 @@
-# Assure test automation
+# AssureFinance test automation
 Run Test Case
 ```behave --tags="login_org" -D headless=true  -f allure_behave.formatter:AllureFormatter -o allure-result```
 In terminal it will show output like below:
